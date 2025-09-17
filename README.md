@@ -13,9 +13,8 @@ JavaScript • React • Node.js • Express • MongoDB • Git/GitHub • HTML
 
 ## Selected Projects
 - **TODO App (Vanilla JS)** – localStorage, clean UI
-- **Blog MERN** – JWT auth, roles, likes/comments
-- **Padel Tools** – schedulers, stats
+
 
 ## Contact
-- LinkedIn: <your-link>
-- Email: <your-email>
+- LinkedIn: https://www.linkedin.com/in/yitzhak-keidar/
+- Email: keidar17@gmail.com
